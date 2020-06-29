@@ -1,0 +1,20 @@
+{
+    "buildone": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amsched-buildone-170246-authRole",
+            "UnauthRoleArn": "arn:aws:iam::151151880136:role/amplify-amsched-buildone-170246-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::151151880136:role/amplify-amsched-buildone-170246-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-amsched-buildone-170246-deployment",
+            "UnauthRoleName": "amplify-amsched-buildone-170246-unauthRole",
+            "StackName": "amplify-amsched-buildone-170246",
+            "StackId": "arn:aws:cloudformation:us-east-1:151151880136:stack/amplify-amsched-buildone-170246/93479e20-b402-11ea-91b9-0a87c278b5b5",
+            "AmplifyAppId": "doyptuc658sfl"
+        },
+        "categories": {
+            "auth": {
+                "amschedc53a170e": {}
+            }
+        }
+    }
+}
